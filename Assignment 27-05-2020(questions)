@@ -1,9 +1,9 @@
 1. Generate the following pattern
   *
   *  *
-	*  *  *
- 	*  *  *  *
- 	*  *  *  *  *
+  *  *  *
+  *  *  *  *
+  *  *  *  *  *
   
 2. Display multiplication table of K. Take k value from user
  	Ex:      7 x 1 =7
