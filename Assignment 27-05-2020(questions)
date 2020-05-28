@@ -1,0 +1,17 @@
+1. Generate the following pattern
+  *
+  *  *
+  *  *  *
+  *  *  *  *
+  *  *  *  *  *
+  
+2. Display multiplication table of K. Take k value from user
+ 	Ex:      7 x 1 =7
+    		7 x 2 = 14   .....
+        
+3. Roots of quadratic equation
+  	Take the coefficients a,b,c from the user
+    
+4. Convert a decimal number to Binary
+
+5. Generate first N number of Fibonacci numbers. Take N value from the user
